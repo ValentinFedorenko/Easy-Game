@@ -1,0 +1,19 @@
+﻿  main.cpp
+d:\git\sfml\sfml\main.cpp(26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\git\sfml\sfml\main.cpp(27): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+d:\git\sfml\sfml\main.cpp(86): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+d:\git\sfml\sfml\main.cpp(99): warning C4305: =: усечение из "double" в "float"
+d:\git\sfml\sfml\main.cpp(103): warning C4305: =: усечение из "double" в "float"
+d:\git\sfml\sfml\main.cpp(107): warning C4305: =: усечение из "double" в "float"
+d:\git\sfml\sfml\main.cpp(111): warning C4305: =: усечение из "double" в "float"
+d:\git\sfml\sfml\main.cpp(117): warning C4305: =: усечение из "double" в "float"
+d:\git\sfml\sfml\main.cpp(121): warning C4305: =: усечение из "double" в "float"
+d:\git\sfml\sfml\main.cpp(125): warning C4305: =: усечение из "double" в "float"
+d:\git\sfml\sfml\main.cpp(129): warning C4305: =: усечение из "double" в "float"
+d:\git\sfml\sfml\main.cpp(156): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\git\sfml\sfml\main.cpp(173): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SFML.vcxproj -> D:\GIT\SFML\x64\Debug\SFML.exe
